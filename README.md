@@ -16,3 +16,10 @@ This Repository contains the basic programs coded in python.
        6. Other types of Expressions
        7. Call Expressions
        8. Evaluation of  Some Call Expressions
+
+
+# 02. Values & Variables
+
+  *This file contains multiple programs and cells of codes each explaining different aspects of values and variables in Python.
+  The main ideas that are explained via code in this file are:*
+  
