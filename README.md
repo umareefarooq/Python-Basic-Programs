@@ -35,8 +35,8 @@ This Repository contains the basic programs coded in python.
          * A value or variable itself is consider as an expression
          * Different types of Expression (Arithmetic, Relational, Logical)
           
-      8. Order of Operators (Precedence Rules)
-      9. String Operations
+      8.  Order of Operators (Precedence Rules)
+      9.  String Operations
       10. String Control Codes
       11. Controling the Print Function
       12. Taking Input from User in Python
