@@ -5,7 +5,7 @@ This Repository contains the basic programs coded in python.
 
 ## 01.  Basics Of Python
 
-  *This file contains multiple programs and cells of codes each explaining a basic functionality of Python. 
+  This file contains multiple programs and cells of codes each explaining a basic functionality of Python. 
   The main ideas that are explained via code in this file are:*
   
        1. Expressions
@@ -20,7 +20,7 @@ This Repository contains the basic programs coded in python.
 
 # 02. Values & Variables
 
-  *This file contains multiple programs and cells of codes each explaining different aspects of values and variables in Python.
+  This file contains multiple programs and cells of codes each explaining different aspects of values and variables in Python.
   The main ideas that are explained via code in this file are:*
   
       1. Values and Types
